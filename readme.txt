@@ -1,1 +1,1 @@
-mvn exec:java -Dexec.mainClass="Exam_12697_20161209_1.PrimeNumberStart"
+mvn exec:java -Dexec.mainClass="Exam_12697_20161209_1.Tax"
